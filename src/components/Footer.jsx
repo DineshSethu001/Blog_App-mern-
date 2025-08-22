@@ -6,8 +6,11 @@ const Footer = () => {
       <div className="flex flex-col md:flex-row items-start justify-between gap-10 py-10 border-b border-gray-500/30 text-gray-500">
         <div className="max-w-[410px] mt-6">
           <img src={assets.logo} alt="" className='w-32 sm:w-44'/>
-          <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, corrupti amet aliquid doloribus dolorem impedit, vero architecto nemo, aperiam eius cum! Molestias assumenda eveniet cum eligendi nostrum numquam. Facere, numquam!
-       
+          <p ><p>
+  Welcome to D-code Blogs — a space where ideas, tutorials, and insights come 
+  together to inspire developers and creators. Explore, learn, and stay 
+  updated with the latest in tech and beyond.
+</p>
           </p>
         </div>
         <div className="w-full  flex flex-wrap justify-between md:w-[45%] gap-5">
